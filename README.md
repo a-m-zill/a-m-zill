@@ -8,7 +8,7 @@ Over the last few years, I have been involved in many projects and topics relati
 
 💬 Ask me about BPMN, processes and automation of processes, working with Java, PHP and Ruby.
 
-**If you need support with a project, just send me a message.**
+**If you need support with a project, just send me a message at andreas (at) nerdy-by-nature.biz.**
 
 <!--
 **a-m-zill/a-m-zill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
